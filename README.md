@@ -7,7 +7,10 @@ LOG:制作了主菜单demo 设置了标题 三个功能按键{
   退出游戏；
 }
 ![Image](https://github.com/user-attachments/assets/6ff2dccf-8035-4f7b-9c0b-56fe1687ab8a)
+
 实现了鼠标聚焦按键变色，点击案件反馈功能
+
+
 ![Image](https://github.com/user-attachments/assets/2d3d64d7-c2df-4437-bd9b-c854d356c205)
 选项按钮会跳转至另一界面，目前支持调节音量功能
 背景可以直接上传图片调节
