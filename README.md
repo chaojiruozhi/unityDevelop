@@ -1,11 +1,17 @@
 # unityDevelop
-unity小游戏开发log\n
-Update Time: 2025/4/12 0:20\n
-LOG:制作了主菜单demo 设置了标题 三个功能按键{\n
-  开始游戏；\n
-  选项；\n
-  退出游戏；\n
-}\n
+unity小游戏开发log
+
+Update Time: 2025/4/12 0:20
+
+LOG:制作了主菜单demo 设置了标题 三个功能按键{
+
+  开始游戏；
+  
+  选项；
+  
+  退出游戏；
+  
+}
 
 ![Image](https://github.com/user-attachments/assets/6ff2dccf-8035-4f7b-9c0b-56fe1687ab8a)
 
